@@ -100,7 +100,7 @@ void draw() {
       }else if(enemyWave == 2){
         enemyLeadPosY = random(60,180);
       }else if(enemyWave == 3){
-        enemyLeadPosY = random(60,300);
+        enemyLeadPosY = random(150,300);
       }
       score += 1;
     }
